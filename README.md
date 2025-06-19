@@ -1,6 +1,6 @@
 <!-- Header with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey! I'm Agrim Jain 👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header&text=Hey!%20I'm%20Agrim%20Jain%20👨‍💻&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -73,16 +73,8 @@ status: Improving backlogs and building real-world apps
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrimjain015&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrimjain015&layout=compact&theme=tokyonight" width="45%"/>
-</p>
-
----
-
-## 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://github.com/agrimjain015/agrimjain015/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgrimJain-quantum&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimJain-quantum&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
