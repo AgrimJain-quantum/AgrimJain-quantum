@@ -1,58 +1,46 @@
-# 👋 Hi, I'm Agrim Jain
+<!-- Header with Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey! I'm Agrim Jain 👨‍💻&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-🎓 B.Tech in Electrical and Electronics Engineering  
-📍 Manipal University Jaipur  
-🔧 Tech + Creativity | Python Developer | Video Editor  
-🌱 Currently learning: Python | Blockchain | AI for Energy Systems  
-🎯 Goal: Break into the tech industry with a role at **NVIDIA**
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 I’m currently building Python-based energy simulation apps
-- 📸 I creatively blend tech and storytelling through video editing
-- 🎥 Editor behind reels for events like **IEEE Datathon, HackX, Oneiros**
-- ⚡ Passionate about renewable energy, smart grids, and creative automation
-- 🧠 Always exploring: Web3, AI, IoT, and real-world problem solving
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=EEE+Student+@+MUJ;Aspiring+NVIDIA+Intern;Python+%7C+Blockchain+%7C+AI+Learner;Cinematic+Video+Editor&center=true&width=500&height=30">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-**Tools & Tech**:  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Turtle](https://img.shields.io/badge/-Turtle%20Graphics-4584b6?style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-- 🔄 **Smart Energy Grid Simulation** – Python + Blockchain + AI  
-  Peer-to-peer trading, solar/grid modeling, real-time energy data
-
-- 🐍 **Mini Python Projects** – Blackjack game, Snake game, File Sorter  
-  Focused on logic building and GUI with turtle
-
-- 🎬 **IEEE Event Reels** – Trailer and aftermovies for HackX, Summit, Datathon
-
-Check them out in the pinned repositories!
-
----
-
-## ✨ Let's Connect!
-
-📬 agrimjain28@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📸 [Instagram for Reels](https://instagram.com/your-reels-page)  
-🧠 [Hackathon Highlights](#)
-
----
-
-🧩 *"Building bridges between logic and creativity."*
-
+## 🧠 About Me
+```yaml
+name: Agrim Jain
+education: BTech - Electrical & Electronics Engineering (Manipal University Jaipur)
+year: 3rd Year
+goal: Crack NVIDIA with the highest package
+cgpa_target: 8.5
+status: Improving backlogs and building real-world apps
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔭 Current Projects
+⚡  Smart Energy Grid Simulation
+    Blockchain + AI-based grid simulation
+    Peer-to-peer trading between users
+    Flask API + Firebase deployment
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💻 Tech Stack & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> </p>
+🛠 Also familiar with: OBS, Premiere Pro, DaVinci Resolve, Canva
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📽️ Cinematic Edits & Reels
+✨ Featured Projects:
+IEEE TenureStart Reel 🎞️
+HackX Trailer & Promos 🎯
+Datathon Aftermovie & Trailer 📊
+Oneiros Cinematic Grid (3-Day Fest) 🎆
+Short Film on Society & Self 🎥
+“Editing is not about effects. It’s about emotion.”
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agrimjain015&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrimjain015&layout=compact&theme=tokyonight" width="45%" /> </p> <!-- Snake Contribution Graph --> <p align="center"> <img src="https://github.com/agrimjain015/agrimjain015/blob/output/github-contribution-grid-snake.svg"> </p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📬 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/agrimjain015" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" /> </a> &nbsp;&nbsp; <a href="mailto:agrimjain015@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" /> </a> </p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks+for+visiting!+🌟&animation=fadeIn&type=waving&color=gradient&height=80"/> </p> ```
