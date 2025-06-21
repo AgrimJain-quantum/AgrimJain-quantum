@@ -77,6 +77,20 @@ status: Improving backlogs and building real-world apps
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimJain-quantum&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AgrimJain-quantum&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+> ⚙️ Make sure you've set up the GitHub Action below for this to display!
+
+<p align="center">
+  <img src="https://github.com/AgrimJain-quantum/AgrimJain-quantum/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 ---
 
 ## 📬 Connect with Me
