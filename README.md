@@ -1,72 +1,71 @@
-<!-- Header with Animation -->
+<!-- Profile Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header&text=Hey!%20I'm%20Agrim%20Jain%20👨‍💻&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=EEE+Student+@+MUJ;Aspiring+NVIDIA+Intern;Python+%7C+Blockchain+%7C+AI+Learner;Cinematic+Video+Editor&center=true&width=500&height=30"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=EEE+Student+@+MUJ;Aspiring+NVIDIA+Intern;Python+%7C+Blockchain+%7C+IoT+Developer;Cinematic+Video+Editor+%7C+Tech+Club+Contributor&center=true&width=500&height=30"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👤 About Me
 
 ```yaml
 name: Agrim Jain
-education: BTech - Electrical & Electronics Engineering (Manipal University Jaipur)
+education: BTech - Electrical & Electronics Engineering, Manipal University Jaipur
 year: 3rd Year
-goal: Crack NVIDIA with the highest package
+goal: Get placed at NVIDIA with the highest package 💸
 cgpa_target: 8.5
-status: Improving backlogs and building real-world apps
 ```
+
+🎯 I'm an engineering student who combines creative media with real-world tech projects.  
+💡 I love building systems that mix **Python**, **IoT**, and **Blockchain** to solve practical problems.  
+🎬 On the side, I create cinematic reels and edit promotional content for college events and tech summits.
+
+---
+
+## 🔧 Tech Stack
+
+- 💻 Languages: `Python`, `Solidity (learning)`, `C`, `MATLAB`
+- 🔗 Tech Focus: `Blockchain`, `IoT`, `Smart Energy`, `Decentralized Apps`
+- 🛠 Tools: `Git`, `Firebase`, `VS Code`, `OBS`, `Premiere Pro`, `DaVinci Resolve`, `Canva`
+
+---
+
+## 🧠 What I’m Learning
+
+- ⚙️ Real-time systems & simulations with Python + Flask  
+- 💸 Peer-to-peer energy trading with **Smart Contracts**  
+- 🌐 Firebase + API deployment  
+- 📊 Data visualization for grid performance analysis  
 
 ---
 
 ## 🔭 Current Projects
 
-- ⚡ **Smart Energy Grid Simulation**
-  - Blockchain + AI-based grid simulation
-  - Peer-to-peer trading between users
-  - Flask API + Firebase deployment
+- **Smart Energy Grid Simulation**
+  - Peer-to-peer energy trade between users
+  - Python + Blockchain + Flask API + Firebase deployment
 
-- 🛠 **Disaster Alert & Recovery System**
-  - Real-time decentralized alerts for emergencies
+- **Disaster Alert & Recovery System**
+  - Real-time decentralized emergency alert platform
 
-- 🗃 **File Sorter App**
-  - Desktop app for intelligent file organization
+- **File Sorter Desktop App**
+  - Python-based organizer to sort system files intelligently
 
-- 🎬 **Short Film**
-  - Society & individuality | Dune-inspired visuals | Powerful Instagram edit
-
----
-
-## 💻 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</p>
-
-🛠 Also familiar with: OBS, Premiere Pro, DaVinci Resolve, Canva
+- **Short Film**
+  - A powerful visual metaphor on societal pressure and individuality using Dune-style visuals
 
 ---
 
-## 🎬 Cinematic Edits & Reels
+## 🏆 Goals for 2025
 
-✨ Featured Projects:
-
-- IEEE TenureStart Reel 🎞️  
-- HackX Trailer & Promos 🎯  
-- Datathon Aftermovie & Trailer 📊  
-- Oneiros Cinematic Grid (3-Day Fest) 🎆  
-- Short Film on Society & Self 🎥  
-
-> *“Editing is not about effects. It’s about emotion.”*
+- ✅ Finish pending backlogs and raise CGPA to 8.5+  
+- 🚀 Land an NVIDIA internship / placement  
+- 📁 Publish and host my portfolio website  
+- 🎯 Win/Participate in major hackathons  
+- 🧑‍💻 Get fluent in `Solidity`, `React.js`, and `Web3` before Sem 8  
 
 ---
 
@@ -82,30 +81,19 @@ status: Improving backlogs and building real-world apps
 </p>
 
 ---
-
-## 🐍 Contribution Graph Snake
-
-> ⚙️ Make sure you've set up the GitHub Action below for this to display!
+## 📬 Contact & Links
 
 <p align="center">
-  <img src="https://github.com/AgrimJain-quantum/AgrimJain-quantum/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/agrimjain015" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+  <a href="mailto:agrimjain015@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-agrimjain015@gmail.com-blue?style=flat&logo=gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:agrimjain015@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  <a href="https://www.linkedin.com/in/agrimjain015/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AgrimJain-blue?style=flat&logo=linkedin"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-@yourhandle-pink?style=flat&logo=instagram"/>
   </a>
 </p>
 
