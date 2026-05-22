@@ -1,78 +1,198 @@
-<div align="center" style="font-family: Arial, Helvetica, sans-serif;">
+# 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Agrim+Jain;ML+Engineer+%7C+Creative+Technologist;Building+Intelligent+Systems;Engineering+AI+%26+Automation)](https://github.com/AgrimJain-quantum)
 
-  <h1 style="margin-bottom: 5px;">👋 Hi, I'm Agrim Jain</h1>
-  <p style="margin-top: 0; font-size: 15px;">
-    Electrical & Electronics Engineering Undergraduate | Software + AI/ML
-  </p>
-
-  <hr style="width: 60%;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-### 🧠 About Me
-<p style="font-size: 14px; line-height: 1.6;">
-🎓 B.Tech EEE @ <b>Manipal University Jaipur (2023–2027)</b><br>
-💻 Software-focused engineer interested in <b>AI/ML, Signal Processing, and Energy Systems</b><br>
-⚡ Building projects that bridge <b>core electrical engineering</b> with modern software
-</p>
+<div align="center">
+
+### 🚀 Building intelligent systems with creativity and code.
+
+**Electrical & Electronics Engineering Student** | **AI Enthusiast** | **Python Developer**
+
+</div>
 
 ---
 
-### 🔧 Tech Stack
-<p style="font-size: 14px; line-height: 1.6;">
-<b>Languages:</b> Python, C<br>
-<b>AI / ML:</b> Data preprocessing, feature extraction, basic ML models<br>
-<b>Signal Processing:</b> Signal analysis, fault detection concepts<br>
-<b>Tools:</b> NumPy, Pandas, Matplotlib, Git, VS Code
-</p>
+## 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+
+I'm a passionate **Electrical & Electronics Engineering student** exploring the intersection of **Machine Learning**, **AI**, and **Creative Technology**. 
+
+With a deep focus on:
+- 🤖 **Machine Learning** research and model optimization
+- 🔧 **AI/MLOps** engineering workflows and automation
+- 💡 **Intelligent Systems** design and implementation
+- 📊 **Data Analysis** and insights visualization
+- 🎬 **Creative Storytelling** through visual media
+- ⚙️ **Automation & Optimization** systems
+
+I'm committed to building **impactful technology** that combines engineering rigor with creative excellence.
 
 ---
 
-### 📌 Projects
+## 🛠️ Tech Stack
 
-<b>🔹 AI-Based Fault Detection Using Signal Data <i>(Under Progress)</i></b>
-<ul>
-  <li>Software-only ML pipeline for detecting electrical faults</li>
-  <li>Signal preprocessing, feature extraction, and classification</li>
-  <li>Designed without hardware dependency</li>
-</ul>
+### 🔤 Languages & Core
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-<b>🔹 Hybrid Localization Stack for GNSS-Challenged Environments <i>(Under Progress)</i></b>
-<ul>
-  <li>Multi-sensor localization for GNSS-denied environments</li>
-  <li>Handles multipath errors and intermittent fixes</li>
-  <li>Software-based estimation and sensor fusion concepts</li>
-</ul>
+### 🚀 Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
-<b>🔹 Household Solar Energy Generation & Consumption Simulator</b>
-<ul>
-  <li>Python-based simulator for rooftop solar energy</li>
-  <li>Models consumption, surplus generation, and grid dependency</li>
-  <li>Analyzes efficiency and daily energy patterns</li>
-</ul>
+### 📚 ML & Data Science Libraries
+<div>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAKPC9zdmc+" />
+  <img src="https://img.shields.io/badge/Seaborn-0C55A3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EEE?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+### 🎯 Domains & Specializations
+<div>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Research-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-00D9FF?style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-### 📈 Currently Learning
-<ul>
-  <li>Machine Learning for engineering applications</li>
-  <li>Applied signal processing</li>
-  <li>Energy system modeling using Python</li>
-</ul>
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 | 📚 | 🔬 | ⚡ |
+|:---|:---|:---|:---|
+| **Building ML Projects** | **Learning DSA** | **AI Research** | **MLOps Workflows** |
+| Developing production-ready systems | Strengthening algorithmic foundation | Exploring intelligent systems | Engineering automation solutions |
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-<p>
-📫 <b>Email:</b> agrimjain015@gmail.com<br>
-🔗 <b>LinkedIn:</b>
-<a href="https://www.linkedin.com/in/agrim-jain-8a8b58367">linkedin.com/in/agrim-jain-8a8b58367</a>
-</p>
+## 📊 GitHub Analytics
 
-<hr>
+<div align="center">
 
-<p align="center" style="font-size: 13px;">
-⭐ Always learning • Building • Improving
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgrimJain-quantum&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/AgrimJain-quantum)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgrimJain-quantum&theme=tokyonight&hide_border=true)](https://github.com/AgrimJain-quantum)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimJain-quantum&theme=tokyonight&hide_border=true&layout=compact&card_width=320)](https://github.com/AgrimJain-quantum)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🤖 AI/ML Research Project
+**Intelligent Systems & Optimization**
+```
+Python • TensorFlow • NumPy • Pandas • Scikit-learn
+```
+Advanced machine learning research focused on model optimization, intelligent systems design, and cutting-edge AI applications.
+
+---
+
+### ⚡ Energy Optimization System
+**Smart Electricity Monitoring & Optimization**
+```
+Python • Pandas • NumPy • Data Analysis
+```
+ML-powered platform for smart electricity optimization, consumption monitoring, and intelligent resource management.
+
+---
+
+### 🌐 Engineering Portfolio
+**Personal Engineering Showcase**
+[**Visit Portfolio →**](https://agrimjainportfolio.netlify.app/)
+```
+React • Tailwind • Responsive Design
+```
+Comprehensive portfolio showcasing projects, technical skills, and engineering achievements.
+
+---
+
+### 🎬 Creative Media Portfolio
+**Visual Storytelling & Creative Work**
+[**Visit Portfolio →**](https://agrimcreativeportfolio.netlify.app/)
+```
+Cinematography • Photography • Video Editing
+```
+Creative portfolio featuring cinematography, photography, video editing, and visual storytelling projects.
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgrimJain-quantum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-jain-8a8b58367/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimjain015@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://agrimjainportfolio.netlify.app/)
+[![Creative Portfolio](https://img.shields.io/badge/Creative%20Portfolio-FF1493?style=for-the-badge&logo=web&logoColor=white)](https://agrimcreativeportfolio.netlify.app/)
+
+</div>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+> _"Code is poetry written for machines, but it must be readable for humans. Creativity and engineering aren't opposites—they're partners in innovation."_
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Metrics
+
+![Views](https://komarev.com/ghpvc/?username=AgrimJain-quantum&style=flat-square&color=00D9FF)
+[![GitHub Followers](https://img.shields.io/github/followers/AgrimJain-quantum?style=flat-square&color=00D9FF&label=Followers)](https://github.com/AgrimJain-quantum)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning | Always Building | Always Innovating
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+**Thank you for visiting! Feel free to explore my projects, connect, and collaborate.** 🌟
+
+Made with ❤️ by Agrim Jain
+
+</div>
