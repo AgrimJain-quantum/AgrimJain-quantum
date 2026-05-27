@@ -157,8 +157,8 @@ Creative portfolio featuring cinematography, photography, video editing, and vis
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgrimJain-quantum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrim-jain-8a8b58367/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimjain015@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://agrimjainportfolio.netlify.app/)
-[![Creative Portfolio](https://img.shields.io/badge/Creative%20Portfolio-FF1493?style=for-the-badge&logo=web&logoColor=white)](https://agrimcreativeportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://agrimworkportfolio.netlify.app/)
+[![Creative Portfolio](https://img.shields.io/badge/Creative%20Portfolio-FF1493?style=for-the-badge&logo=web&logoColor=white)](https://creativeworkport.netlify.app/)
 
 </div>
 
