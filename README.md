@@ -60,7 +60,7 @@ I'm committed to building **impactful technology** that combines engineering rig
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAKPC9zdmc+" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-0C55A3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EEE?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
@@ -92,15 +92,33 @@ I'm committed to building **impactful technology** that combines engineering rig
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgrimJain-quantum&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/AgrimJain-quantum)
+<!-- Row 1: Streak (working) -->
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgrimJain-quantum&theme=tokyonight&hide_border=true" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgrimJain-quantum&theme=tokyonight&hide_border=true)](https://github.com/AgrimJain-quantum)
+<!-- Profile summary card - repos per language (different service, reliable) -->
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgrimJain-quantum&theme=tokyonight" />
+</a>
 
-</div>
+<!-- Row 2: Profile Details + Most Commit Language -->
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgrimJain-quantum&theme=tokyonight" />
+</a>
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AgrimJain-quantum&theme=tokyonight" />
+</a>
 
-<div align="center">
+<!-- Row 3: Full profile summary card -->
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgrimJain-quantum&theme=tokyonight" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimJain-quantum&theme=tokyonight&hide_border=true&layout=compact&card_width=320)](https://github.com/AgrimJain-quantum)
+<!-- Row 4: Activity Graph -->
+<a href="https://github.com/AgrimJain-quantum">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AgrimJain-quantum&theme=tokyo-night&hide_border=true&area=true" />
+</a>
 
 </div>
 
