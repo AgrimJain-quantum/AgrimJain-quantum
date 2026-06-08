@@ -146,25 +146,9 @@ ML-powered platform for smart electricity optimization, consumption monitoring, 
 
 ---
 
-### 🌐 Engineering Portfolio
-**Personal Engineering Showcase**
-[**Visit Portfolio →**](https://agrimworkportfolio.netlify.app/)
-```
-React • Tailwind • Responsive Design
-```
-Comprehensive portfolio showcasing projects, technical skills, and engineering achievements.
-
----
-
-### 🎬 Creative Media Portfolio
-**Visual Storytelling & Creative Work**
-[**Visit Portfolio →**](https://creativeworkport.netlify.app/)
-```
-Cinematography • Photography • Video Editing
-```
-Creative portfolio featuring cinematography, photography, video editing, and visual storytelling projects.
-
-</div>
+### 🌐 Portfolio
+**Personal Engineering x creative Showcase**
+[**Visit Portfolio →**](https://agrimportfolioweb.netlify.app/)
 
 ---
 
