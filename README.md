@@ -148,7 +148,7 @@ ML-powered platform for smart electricity optimization, consumption monitoring, 
 
 ### 🌐 Portfolio
 **Personal Engineering x creative Showcase**
-[**Visit Portfolio →**](https://agrimportfolioweb.netlify.app/)
+[**Visit Portfolio →**](https://the-portfolio-gray.vercel.app/)
 
 ---
 
