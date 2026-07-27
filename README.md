@@ -21,3 +21,20 @@ srcset="https://raw.githubusercontent.com/AgrimJain-quantum/AgrimJain-quantum/ou
 src="https://raw.githubusercontent.com/AgrimJain-quantum/AgrimJain-quantum/output/github-snake.svg" />
 </picture>
 </div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/agrim-jain-8a8b58367/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
+&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/optimus_mp4/">
+<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge
+&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="agrimjain015@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge
+&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
